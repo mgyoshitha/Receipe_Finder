@@ -1,4 +1,4 @@
-const API_KEY = '1515b2c7e398475d84806373d8c3a5e4';
+const API_KEY = '';
 const favoritesContainer = document.getElementById('favorites');
 
 // Load favorites from localStorage
